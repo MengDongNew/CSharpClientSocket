@@ -1,0 +1,9 @@
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\bin\Debug\XClientSocket.exe.config
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\bin\Debug\XClientSocket.exe
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\bin\Debug\XClientSocket.pdb
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\obj\Debug\XClientSocket.csprojResolveAssemblyReference.cache
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\obj\Debug\XClientSocket.Properties.Resources.resources
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\obj\Debug\XClientSocket.csproj.GenerateResource.Cache
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\obj\Debug\XClientSocket.exe
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\obj\Debug\XClientSocket.pdb
+C:\Users\mengdong\Documents\SVN2\server_fire\XClientSocket\XClientSocket\obj\Debug\XClientSocket.Form1.resources
